@@ -238,8 +238,8 @@ yarn deploy
 Use this space to tell a little more about your project and how it can be used.
 Show additional screenshots, code samples, demos, or links to other resources.
 
-```javascript
-import Component from "awesome-readme-template";
+```jsx
+import Component from "MyComponent";
 
 function App() {
   return <Component />;
@@ -269,7 +269,8 @@ See `CONTRIBUTING.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/DuckyMomo20012/awesome-readme-template/blob/main/CODE_OF_CONDUCT.md).
+Please read the
+[Code of Conduct](https://github.com/DuckyMomo20012/awesome-readme-template/blob/main/CODE_OF_CONDUCT.md).
 
 <!-- FAQ -->
 
@@ -298,7 +299,8 @@ for more information.
 Duong Vinh - [@duckymomo20012](https://twitter.com/duckymomo20012) -
 tienvinh.duong4@gmail.com
 
-Project Link: [https://github.com/DuckyMomo20012/awesome-readme-template](https://github.com/DuckyMomo20012/awesome-readme-template).
+Project Link:
+[https://github.com/DuckyMomo20012/awesome-readme-template](https://github.com/DuckyMomo20012/awesome-readme-template).
 
 <!-- Acknowledgments -->
 
